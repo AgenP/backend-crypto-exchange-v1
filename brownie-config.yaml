@@ -1,0 +1,11 @@
+dependencies:
+  # - <organization/repository>@<version>
+  - OpenZeppelin/openzeppelin-contracts@4.6.0
+compiler:
+  solc:
+    remappings:
+      - "@openzeppelin=OpenZeppelin/openzeppelin-contracts@4.6.0"
+
+networks:
+  rinkeby:
+    price_control_address: "0xc57C9b1B21AD44bB44258b06D3C33B645Ab6b35b"
