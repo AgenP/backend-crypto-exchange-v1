@@ -22,7 +22,7 @@ a full picture of how to install it.
 
 # Potential Improvements
 
-## Testing
+## Testing 
 
 Previously tested on rinkeby (in Remix)
 
@@ -30,7 +30,7 @@ Previously tested on rinkeby (in Remix)
 2. Create mock contracts that are in the specified test states already, to save time
    ...
 
-## Functionality
+## Functionality
 
 1. Prompt for approval to transfer a base amount of input token, instead of manually approving
 2. Add extra exchange functionality such as (more tokens, limit orders, volume etc.)
