@@ -35,4 +35,3 @@ Previously tested on rinkeby (in Remix)
 1. Prompt for approval to transfer a base amount of input token, instead of manually approving
 2. Add extra exchange functionality such as (more tokens, limit orders, volume etc.)
    ...
-# backend-crypto-exchange-v1
